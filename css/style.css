@@ -31,12 +31,16 @@ body{
     float:right;
     
 }
+.header_r a {
+    text-decoration: none;
+}
 .header span{
     color:#128aa7;
     font-size: 12px;
     font-family: Tahoma Regular; /* Гарнитура шрифта */
     display: block;
     text-align: right;
+    
 }
 
 .india{
